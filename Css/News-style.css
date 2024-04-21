@@ -4,6 +4,7 @@
 }
 
 .list-item {
+    font-family: "Sedan", serif;
     font-weight: 700;
     font-size: 30px;
     line-height: 31.2px;
@@ -35,6 +36,7 @@
 }
 
 .span-news {
+    font-family: "Sedan", serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 31.2px;
@@ -43,7 +45,8 @@
     text-align: left;
 }
 
-.span-moreinformation {
+.span-more-information {
+    font-family: "Sedan", serif;
     font-weight: 400;
     font-size: 26px;
     line-height: 31.2px;
@@ -62,7 +65,8 @@
 }
 
 .container h3 {
-    font-style: Helvetica Neue LT GEO;
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 24.14px;
@@ -71,7 +75,8 @@
 }
 
 .container p {
-    font-style: Helvetica Neue LT GEO;
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19.31px;
