@@ -5,6 +5,7 @@
 }
 
 .list-item {
+    font-family: "Sedan", serif;
     font-weight: 700;
     font-size: 30px;
     line-height: 31.2px;
@@ -26,6 +27,8 @@
 }
 
 .contact-info {
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 43.96px;
@@ -35,6 +38,8 @@
 }
 
 .contact-paragraph {
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 24.14px;
@@ -45,6 +50,9 @@
 
 .contact-span {
     color: black;
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .container {
