@@ -4,6 +4,7 @@
 }
 
 .list-item {
+    font-family: "Sedan", serif;
     font-weight: 700;
     font-size: 30px;
     line-height: 31.2px;
@@ -21,7 +22,7 @@
 }
 
 .date {
-    font: Helvetica;
+    font-family: "Sedan", serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 27.6px;
@@ -38,6 +39,7 @@
 }
 
 .month {
+    font-family: "Sedan", serif;
     font-weight: 400;
     font-size: 24px;
     line-height: 28.8px;
@@ -47,6 +49,7 @@
 }
 
 .section-header {
+    font-family: "Sedan", serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
@@ -76,13 +79,10 @@
 
 
 .section-description {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19.2px;
-    width: 1021px;
-    color: #4E6FAE;
+    font-family: "Sedan", serif;
     margin-left: 52px;
     margin-bottom: 145px;
+    color: #4E6FAE;
 }
 
 .section-image {
