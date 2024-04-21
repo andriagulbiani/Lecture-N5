@@ -1,0 +1,95 @@
+.main-logo {
+    width: 223px;
+    margin: 54px 60px 31px 52px;
+    vertical-align: 15px;
+}
+
+.list-item {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 31.2px;
+    vertical-align: 58px;
+    color: #8D81FF;
+    display: inline-block;
+}
+
+.main-list {
+    margin: 66px 0px 56px 0px;
+}
+
+.news-list {
+    margin: 66px 81px 56px 87px;
+}
+
+.contact-list {
+    color: #4E6FAE;
+}
+
+.contact-info {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43.96px;
+    color: #4E6FAE;
+    margin-top: 93px;
+    margin-bottom: 25px;
+}
+
+.contact-paragraph {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24.14px;
+    color: #7E8898;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.contact-span {
+    color: black;
+}
+
+.container {
+    display: inline-block;
+    width: 100%;
+    height: 735px;
+    background-color: #E7E7E7;
+}
+
+.frame {
+    display: inline-block;
+    width: 944px;
+    height: 750px;
+    padding: 93px 40px 93px 0px;
+}
+
+.paragraph-div {
+    margin: 93px 40px 455px 162px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.line1 {
+    width: 2px;
+    height:48px;
+    background-color: #5012D5;
+    display: inline-block;
+    margin-top: 104px;
+    margin-left: 41px;
+    margin-right: 41px;
+}
+
+.contact-footer {
+    margin-left: 96px;
+    margin-bottom: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
